@@ -15,6 +15,7 @@ This project includes practical code examples and clear explanations for the fol
 - Lists, Dictionary, Sets
 - Python Class
 - Pickling Objects
+- Comprehension
 
 
 ## 🧠 Learning Goals
@@ -32,11 +33,7 @@ By working through the examples in this repo, you’ll learn to:
 - Apply **set comprehensions** to build sets while automatically removing duplicate entries.
 - Leverage **conditional logic (`if`) within comprehensions** to filter data on-the-fly.
 - Avoid common errors by using the **`get()` method** to safely access dictionary values.
-- Understand the differences and appropriate use cases for:
-  - List vs Dictionary vs Set comprehensions
-  - Traditional loops vs comprehension syntax
-- Write clean, Pythonic, and efficient code by replacing verbose loops with comprehensions.
-- Use comprehensions to **transform nested data structures**, like lists of dictionaries (e.g., filtering or extracting fields from JSON-like data).
+
 
 ---
 
