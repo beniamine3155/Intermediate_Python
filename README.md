@@ -16,6 +16,7 @@ This project includes practical code examples and clear explanations for the fol
 - Python Class
 - Pickling Objects
 - Comprehension
+- Generator
 
 
 ## 🧠 Learning Goals
@@ -33,6 +34,8 @@ By working through the examples in this repo, you’ll learn to:
 - Apply **set comprehensions** to build sets while automatically removing duplicate entries.
 - Leverage **conditional logic (`if`) within comprehensions** to filter data on-the-fly.
 - Avoid common errors by using the **`get()` method** to safely access dictionary values.
+- Understand how to create and use generators using yield and yield from for efficient, lazy data processing.
+- Learn to write memory-friendly code and generate values on-the-fly, including infinite data streams and custom iterators.
 
 
 ---
