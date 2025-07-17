@@ -17,6 +17,7 @@ This project includes practical code examples and clear explanations for the fol
 - Pickling Objects
 - Comprehension
 - Generator
+- Type Hints
 
 
 ## 🧠 Learning Goals
@@ -36,6 +37,7 @@ By working through the examples in this repo, you’ll learn to:
 - Avoid common errors by using the **`get()` method** to safely access dictionary values.
 - Understand how to create and use generators using yield and yield from for efficient, lazy data processing.
 - Learn to write memory-friendly code and generate values on-the-fly, including infinite data streams and custom iterators.
+- Understand how to use type annotations in classes to improve code readability, maintainability, and tooling support.
 
 
 ---
