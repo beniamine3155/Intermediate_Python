@@ -27,6 +27,16 @@ By working through the examples in this repo, you’ll learn to:
 - Use anonymous functions (lambda) in real-world Python applications.
 - Pickling is faster than converting objects to text formats like JSON for saving.
 - It can handle many Python-specific types, including objects of custom classes.
+- Understand and implement **list comprehensions** for transforming and filtering lists in a single line.
+- Use **dictionary comprehensions** to create key-value pairs from lists or other iterable data.
+- Apply **set comprehensions** to build sets while automatically removing duplicate entries.
+- Leverage **conditional logic (`if`) within comprehensions** to filter data on-the-fly.
+- Avoid common errors by using the **`get()` method** to safely access dictionary values.
+- Understand the differences and appropriate use cases for:
+  - List vs Dictionary vs Set comprehensions
+  - Traditional loops vs comprehension syntax
+- Write clean, Pythonic, and efficient code by replacing verbose loops with comprehensions.
+- Use comprehensions to **transform nested data structures**, like lists of dictionaries (e.g., filtering or extracting fields from JSON-like data).
 
 ---
 
