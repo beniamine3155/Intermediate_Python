@@ -4,41 +4,62 @@ Welcome to this project! This repository contains **intermediate-level Python co
 
 ---
 
+## 📂 Repository Structure
+
+| Folder | Topic |
+|--------|-------|
+| **01_Python_Import** | Working with Python imports and modules |
+| **02_Python_Functions** | Defining, calling, and understanding Python functions |
+| **03_Python_String** | String operations, methods, and formatting |
+| **04_Lists_Dic_Sets** | Lists, dictionaries, and sets manipulation |
+| **05_Python_Class** | Object-oriented programming and classes |
+| **06_Pickling_Objects** | Pickling and unpickling Python objects |
+| **07_Comprehension** | List, dict, and set comprehensions |
+| **08_Generator** | Creating and using generators |
+| **09_Type_Hints** | Type hints and type annotations in Python |
+| **10_Pydantic** | Data validation using the Pydantic library |
+| **11_Lambda_Function** | Lambda expressions and anonymous functions |
+| **12_Higher_Order_Function** | Higher-order functions and functional programming |
+| **13_Enumerate** | Using the `enumerate()` function effectively |
+
+---
 ## 📚 Topics Covered
 
-This project includes practical code examples and clear explanations for the following intermediate Python topics:
+This repository includes practical examples and exercises for the following **intermediate Python topics**:
 
+- Python Imports and Modules  
+- Python Functions  
+- Python Strings  
+- Lists, Dictionaries, and Sets  
+- Python Classes and Object-Oriented Programming  
+- Pickling and Unpickling Objects  
+- List, Dictionary, and Set Comprehensions  
+- Generators and Lazy Evaluation  
+- Type Hints and Annotations  
+- Pydantic for Data Validation  
+- Lambda Expressions and Anonymous Functions  
+- Higher-Order Functions and Functional Programming  
+- Using `enumerate()` Effectively  
 
-- Python Import Module
-- Python Functions
-- Python String
-- Lists, Dictionary, Sets
-- Python Class
-- Pickling Objects
-- Comprehension
-- Generator
-- Type Hints
-
+---
 
 ## 🧠 Learning Goals
 
-By working through the examples in this repo, you’ll learn to:
+By working through this repository, you will learn to:
 
-- Write cleaner, modular, and reusable Python code.
-- Use built-in data structures like lists, dictionaries, and sets efficiently.
-- Handle function arguments with flexibility.
-- Use anonymous functions (lambda) in real-world Python applications.
-- Pickling is faster than converting objects to text formats like JSON for saving.
-- It can handle many Python-specific types, including objects of custom classes.
-- Understand and implement **list comprehensions** for transforming and filtering lists in a single line.
-- Use **dictionary comprehensions** to create key-value pairs from lists or other iterable data.
-- Apply **set comprehensions** to build sets while automatically removing duplicate entries.
-- Leverage **conditional logic (`if`) within comprehensions** to filter data on-the-fly.
-- Avoid common errors by using the **`get()` method** to safely access dictionary values.
-- Understand how to create and use generators using yield and yield from for efficient, lazy data processing.
-- Learn to write memory-friendly code and generate values on-the-fly, including infinite data streams and custom iterators.
-- Understand how to use type annotations in classes to improve code readability, maintainability, and tooling support.
-
+- Write **modular, clean, and reusable Python code** using imports and functions.  
+- Efficiently manipulate built-in data structures like **lists, dictionaries, and sets**.  
+- Handle **function arguments flexibly** and understand Python’s scoping rules.  
+- Use **lambda expressions** for concise, anonymous function definitions.  
+- Work with **higher-order functions** to pass functions as arguments and return them from other functions.  
+- Serialize and deserialize Python objects using **pickling** for fast storage and retrieval.  
+- Implement **list, dictionary, and set comprehensions** for concise and readable code.  
+- Incorporate **conditional logic within comprehensions** to filter and transform data efficiently.  
+- Safely access dictionary values using **`get()`** to avoid common errors.  
+- Create **memory-efficient generators** using `yield` and `yield from` for lazy evaluation and custom iterators.  
+- Write Python code with **type hints** to improve readability, maintainability, and tooling support.  
+- Validate and enforce data structures using **Pydantic** for robust Python applications.  
+- Utilize **enumerate** to loop through iterables with indices effectively.  
 
 ---
 
