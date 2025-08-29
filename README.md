@@ -21,6 +21,7 @@ Welcome to this project! This repository contains **intermediate-level Python co
 | **11_Lambda_Function** | Lambda expressions and anonymous functions |
 | **12_Higher_Order_Function** | Higher-order functions and functional programming |
 | **13_Enumerate** | Using the `enumerate()` function effectively |
+| **14_File_Handling** | Allows us to read, write, and manipulate files in Python |
 
 ---
 ## 📚 Topics Covered
